@@ -1,0 +1,11 @@
+.side-small-images{
+    display: grid;
+    grid-template-columns: auto;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.image-list-container{
+display: flex;
+}
